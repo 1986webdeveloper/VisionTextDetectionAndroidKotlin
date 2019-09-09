@@ -1,1 +1,1 @@
-# VisionTextDetectionAndroidKotlin
+# VisionTextDetectionAndroidJava
