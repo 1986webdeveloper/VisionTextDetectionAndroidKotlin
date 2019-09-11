@@ -1,4 +1,4 @@
-# VisionTextDetectionAndroidJava
+# VisionTextDetectionAndroidKotlin
 This example is for text detection from any document or image.
 
 <b>Features : </b>
